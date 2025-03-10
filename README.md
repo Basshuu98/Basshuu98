@@ -1,4 +1,4 @@
-![](https://tenor.com/it/view/hello-world-seytonic-coding-hello-gif-10598764531210485569)
+![banner.gif](https://tenor.com/it/view/hello-world-seytonic-coding-hello-gif-10598764531210485569)
 <h1 align="center">Hi 👋, I'm Kevin Softic</h1>
 <h3 align="center">A passionate developer from Italy, I'm currently a student in the University of Milan working on my Bachelor's in Computer science</h3>
 
