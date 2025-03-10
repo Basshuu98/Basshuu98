@@ -1,5 +1,4 @@
 [![banner.png](https://i.postimg.cc/br0FJHJ8/ac2-environment01.jpg)](https://postimg.cc/1VtK7FwY)
-<div class="tenor-gif-embed" data-postid="10598764531210485569" data-share-method="host" data-aspect-ratio="1.78218" data-width="100%"><a href="https://tenor.com/view/hello-world-seytonic-coding-hello-gif-10598764531210485569">Hello World Seytonic GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm Kevin Softic</h1>
 <h3 align="center">A passionate developer from Italy, I'm currently a student in the University of Milan working on my Bachelor's in Computer science</h3>
 
